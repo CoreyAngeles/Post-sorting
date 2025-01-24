@@ -1,0 +1,13 @@
+.post {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  height: auto;
+  border: 1px solid black;
+  background: linear-gradient(90deg, #ffbac9, #ffffff);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
